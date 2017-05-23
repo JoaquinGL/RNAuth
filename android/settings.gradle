@@ -1,0 +1,3 @@
+rootProject.name = 'RNauth'
+
+include ':app'
